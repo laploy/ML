@@ -1,0 +1,13 @@
+name,age,years_seniority,income,parking_space,attending_party,entree,pets,emergency_contact
+Tony,48,27,,1,5,shrimp,,Pepper
+Donald,67,25,86,10,2,beef,,Jane 
+Henry,69,21,95,6,1,chicken,62,Janet
+Janet,62,21,110,3,1,beef,,Henry
+Nick,,17,,4,,,,
+Bruce,37,14,63,,1,veggie,,NA
+Steve,83,,77,7,1,chicken,,n/a
+Clint,27,9,118,9,,shrimp,3,None
+Wanda,19,7,52,2,2,shrimp,,empty
+Natasha,26,4,162,5,3,,,_
+Carol,,3,127,11,1,veggie,1,""""""
+Mandy,44,2,68,8,1,chicken,,null
