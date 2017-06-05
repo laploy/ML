@@ -1,0 +1,20 @@
+#import pandas as pd
+def azureml_main(dataframe1 = None, dataframe2 = None):
+    dataframe1.columns = [
+        'age',
+        'workclass',
+        'fnlwgt',
+        'education',
+        'education-num',
+        'marital-status',
+        'occupation',
+        'relationship',
+        'race',
+        'sex',
+        'capital-gain',
+        'capital-loss',
+        'hours-per-week',
+        'native-country',
+        'income'
+    ]
+    return dataframe1,
