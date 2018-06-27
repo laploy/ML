@@ -3,7 +3,7 @@
 1. ระบบปฏิบัติการ Windows 10<br>
 2. สมัครบัญชี Microsoft Azure https://azure.microsoft.com<br>
 3. ติดตั้ง Python เวอร์ชัน 2.7.x www.python.org/downloads/release/python-2715/<br>
-4. ติดตั้ง Anaconda แบบมินิ conda.io/miniconda.html<br>
+4. ติดตั้ง Anaconda แบบมินิ https://conda.io/miniconda.html<br>
 5. ติดตั้ง  Pycharm แบบฟรี www.jetbrains.com/pycharm/<br>
 6. ติดตั้ง Microsoft Excel เวอร์ชันปัจจุบัน<br>
 7. ติดตั้ง R for Windows : https://cran.r-project.org/bin/windows/<br>
