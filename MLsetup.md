@@ -1,7 +1,7 @@
-#รายการเตรียมคอมพิวเตอร์และซอฟต์แวร์เพื่อการเรียนคอร์ส Azure Machine Learning
+# รายการเตรียมคอมพิวเตอร์และซอฟต์แวร์เพื่อการเรียนคอร์ส Azure Machine Learning
 
 
-##Azure Machine Learning for Programmer
+## Azure Machine Learning for Programmer
 
 1. ระบบปฏิบัติการ Windows 10
 2. สมัครบัญชี Microsoft Azure
@@ -16,7 +16,7 @@
 
 
 
-##Azure Machine Learning for non-Programmer
+## Azure Machine Learning for non-Programmer
 
 1. ระบบปฏิบัติการ Windows 10
 2. สมัครบัญชี Microsoft Azure
@@ -28,7 +28,7 @@
 
 
 
-##Azure Machine Learning Express
+## Azure Machine Learning Express
 
 1. ระบบปฏิบัติการ Windows 10
 2. สมัครบัญชี Microsoft Azure
@@ -37,7 +37,7 @@
 
 
 
-##In-house training
+## In-house training
 
 1. ผู้เรียนนำโน้ตบุ๊คคอมพิวเตอร์ส่วนตัวมาเองหรือใช้ในห้องเรียน
 2. โปรแกรม TeamViewer
