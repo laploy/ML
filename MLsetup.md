@@ -1,6 +1,5 @@
-# เตรียมตัวก่อนเรียนคอร์ส Azure Machine Learning
-<br>
-## Azure Machine Learning for Programmer<br>
+# เตรียมตัวก่อนเรียนคอร์ส Azure Machine Learning <br>
+## Azure Machine Learning for Programmer <br>
 <br>
 1. ระบบปฏิบัติการ Windows 10<br>
 2. สมัครบัญชี Microsoft Azure<br>
