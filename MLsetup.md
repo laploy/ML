@@ -1,4 +1,4 @@
-# รายการเตรียมคอมพิวเตอร์และซอฟต์แวร์เพื่อการเรียนคอร์ส Azure Machine Learning
+# เตรียมตัวก่อนเรียนคอร์ส Azure Machine Learning
 
 
 ## Azure Machine Learning for Programmer
